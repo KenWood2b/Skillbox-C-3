@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{BC718B38-926A-471C-B108-1A82F63A9648}|Exercise2ConsoleApp\\Exercise2ConsoleApp.csproj|solutionrelative:exercise2consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66A134AA-71F5-4C1B-B048-FAB8CD753743}|ArraysConsoleApp\\ArraysConsoleApp.csproj|d:\\c#\\arraysconsoleapp\\arraysconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66A134AA-71F5-4C1B-B048-FAB8CD753743}|ArraysConsoleApp\\ArraysConsoleApp.csproj|D:\\C#\\ArraysConsoleApp\\arraysconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66A134AA-71F5-4C1B-B048-FAB8CD753743}|ArraysConsoleApp\\ArraysConsoleApp.csproj|solutionrelative:arraysconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\ArraysConsoleApp\\Exercise2ConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "Exercise2ConsoleApp\\Program.cs",
-              "ToolTip": "D:\\C#\\ArraysConsoleApp\\Exercise2ConsoleApp\\Program.cs",
-              "RelativeToolTip": "Exercise2ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:11:04.572Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,9 +32,22 @@
               "RelativeDocumentMoniker": "ArraysConsoleApp\\Program.cs",
               "ToolTip": "D:\\C#\\ArraysConsoleApp\\ArraysConsoleApp\\Program.cs",
               "RelativeToolTip": "ArraysConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T15:00:45.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ArraysConsoleApp\\Exercise2ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise2ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\ArraysConsoleApp\\Exercise2ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Exercise2ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:11:04.572Z",
               "EditorCaption": ""
             }
           ]
